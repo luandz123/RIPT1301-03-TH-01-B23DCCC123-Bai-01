@@ -1,0 +1,30 @@
+.clock {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.clock span {
+    padding: 0 10px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 190px;
+    font-size:large;
+    
+}
+.chu{
+    text-align: center;
+    font-size: 45px;
+    
+}
+.chu span{
+    background-color: aqua;
+    padding:0 10px;
+    
+}
+body{
+    background:linear-gradient(to right,red,yellow);
+}
